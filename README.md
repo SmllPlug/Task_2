@@ -33,6 +33,7 @@ tests/
 └── test_change_user_data.py  
 
 utils/
+├── api_methods.py
 ├── helpers.py  
 ├── data.py  
 └── urls.py  
